@@ -21,7 +21,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Notes
 
-- dans le fichier config.json, il y a deux valeurs :
+ dans le fichier config.json, il y a deux valeurs :
  - AdvertMoney : permet de configurer la somme à débourser afin de réaliser une annonce
  - Advertcooldown : permet de définir le temps (en seconde) afin de pouvoir refaire une annonce
   
