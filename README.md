@@ -11,8 +11,8 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 1. Télecharger le plugin (le .dll) : https://github.com/loicsmith/AdvertSystem/releases/tag/AdvertSystem
 2. Placer le dans votre dossier plugins de votre serveur
 3. Démarrer votre serveur
-4. Un dossier AdvertSystem vien de se créer
-5. dans le dossier AdvertSystem, il y a un fichier config.json, ouvrez le et configurer le comme bon vous semble. (voir Notes pour comprendre comment configurer).
+4. Un dossier AdvertSystem et logs viennent de se créer
+5. dans le dossier AdvertSystem, il y a un fichier config.json, ouvrez le et configurer le comme bon vous semble. (voir Notes pour comprendre comment configurer). Pour le dossier logs, à l'intérieur il y a un fichier, ouvrez le et mettez simplement un webhook discord valide
 
 
 ## Fonctionalités
