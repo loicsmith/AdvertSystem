@@ -24,6 +24,8 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
  dans le fichier config.json, il y a deux valeurs :
  - AdvertMoney : permet de configurer la somme à débourser afin de réaliser une annonce
  - Advertcooldown : permet de définir le temps (en seconde) afin de pouvoir refaire une annonce
+ -  couleur_nom : couleur du joueur (couleur hexadécimal)
+ -  couleur_annonce : couleur de l'annonce (couleur hexadécimal)
   
 ## Commandes
 
