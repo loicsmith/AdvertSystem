@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/1174014039333031936/1186032578491326474/AdvertSystem.jpg" width="300"/>
+
 # PLUGIN AdvertSystem
 
 Plugin d'annonces sur le jeu Nova-Life : Amboise
