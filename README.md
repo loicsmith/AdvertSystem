@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1186032578491326474/AdvertSystem.jpg" width="300"/>
+<img src="https://i.imgur.com/n6aE5Cm.jpeg" width="300"/>
 
 # PLUGIN AdvertSystem
 
